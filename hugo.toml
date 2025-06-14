@@ -1,12 +1,12 @@
-baseURL = "https://gokarna-hugo.netlify.app"
+baseURL = "https://chengjianxi.github.io/"
 defaultContentLanguage = "en"
 enableEmoji = true
 enableRobotsTXT = true
 languageCode = "en"
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
-theme = "gokarna-hugo"
-title = "Gokarna"
+theme = "gokarna"
+title = "chengjianxi"
 
 [params]
   avatarAltText = "avatar"
@@ -35,18 +35,18 @@ title = "Gokarna"
   """
 
   description = "Sky above, sand below and peace within"
-  footer = "The Marauders"
-  metaKeywords = ["blog", "gokarna", "hugo"]
+  footer = "chengjianxi"
+  metaKeywords = ["c", "c++", "go"]
   showBackToTopButton = true # true or false for "back to top" button on posts and pages
 
   socialIcons = [
-    {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "https://example.com"},
-    {name = "stackoverflow", url = "https://example.com"},
-    {name = "dribbble", url = "https://example.com"},
-    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://example.com"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "github", url = "https://github.com/chengjianxi"},
+  #  {name = "linkedin", url = "https://example.com"},
+  #  {name = "stackoverflow", url = "https://example.com"},
+  #  {name = "dribbble", url = "https://example.com"},
+  #  {name = "instagram", url = "https://example.com"},
+  #  {name = "twitch", url = "https://example.com"},
+    {name = "email", url = "mailto:chengjiaxi@qq.com"}
   ]
 
 [menu]
@@ -77,7 +77,7 @@ title = "Gokarna"
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
-    url = "https://github.com/gokarna-theme/gokarna-hugo"
+    url = "https://github.com/chengjianxi"
     weight = 5
 
   [[menu.main]]
